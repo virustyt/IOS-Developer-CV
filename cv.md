@@ -10,7 +10,7 @@ dragon2020@inbox.ru
    - Basics in: TableView, CollectionView, Multithreading, Drawing, Animation. 
 
 #### CODE EXAMPLES
-   - work in progress:))
+   - [simple game](https://github.com/virustyt/CS-193P.Homework.Concentration/tree/main/Concentration.Homework.)
 
 #### EXPIERENCE
    - I have not been engaged in commercial development for iOS.
