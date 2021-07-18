@@ -18,7 +18,6 @@ dragon2020@inbox.ru
 
 #### EDUCATION
    - Completed higher education. Specialty - "Computer systems and networksc. Сmputing machines, complexes, systems and networks". (2010-2015).
-   - Stanford CS 193P course ([2017-18]) - completed.
    - iOS RSSchool 2021 course - I am currently taking it. (course from EPAM)
 
 
