@@ -7,7 +7,6 @@ dragon2020@inbox.ru
 
 #### SKILLS
    - Objective-C Swift Xcode   MVC   Git
-   - Basics in: TableView, CollectionView, Multithreading, Drawing, Animation. 
 
 #### CODE EXAMPLES
    - [simple game](https://github.com/virustyt/CS-193P.Homework.Concentration/tree/main/Concentration.Homework.)
