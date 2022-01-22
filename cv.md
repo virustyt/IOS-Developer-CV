@@ -6,6 +6,7 @@ dragon2020@inbox.ru
    - My goal is to deepen and expand my knowledge about the development of long-lived applications, the choice of their architecture and ways to divide tasks between team members.. By nature i am calm and non-confrontational.
 
 #### SKILLS
+
    - `Objective-C`  `Swift` 
    - `Xcode`  `MVC`  `MVVM`  `Git`
    - `Autolayout`  `UIKit`  `GCD`  `NSOperations`  `UIKit Animation`  `URLSession`  `CoreData`  `XCTest` . 
@@ -17,6 +18,7 @@ dragon2020@inbox.ru
    
    In progress:
    - [app for monitoring money budget](https://github.com/virustyt/FinanceAdvisor).
+
 
 #### EXPIERENCE
    - I have not been engaged in commercial development for iOS.
@@ -40,6 +42,7 @@ dragon2020@inbox.ru
       - Testing in iOS.
       - Begining CoreData.
       - Intermidiate CoreData.
+
 
 
 
