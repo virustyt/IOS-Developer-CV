@@ -1,3 +1,3 @@
 # rsschool-cv
 
-- [link to CV](https://virustyt.github.io/cv.github.io/cv)
+- [link to CV](https://virustyt.github.io/IOS-Developer-CV/cv)
