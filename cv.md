@@ -1,21 +1,21 @@
 Oleinikov Vladimir, 29 years old\
-Minsk • (029) 55-98-356\
+Minsk • Belarus
 dragon2020@inbox.ru
 
 #### ABOUT ME
    - My goal is to gain experience in the team and continue to constantly improve my development skills. Able to learn quickly and discover new things. By nature i am calm and non-confrontational.
 
 #### SKILLS
-   - `Objective-C` `Swift` `Xcode` `MVC` `MVVM` `Git`
-   - `Autolayout` `UIKit` `GCD` `NSOperations` `UIKit Animation` `URLSession` `CoreData` `XCTest` . 
+   - `Objective-C`  `Swift`  `Xcode`  `MVC`  `MVVM`  `Git`
+   - `Autolayout`  `UIKit`  `GCD`  `NSOperations`  `UIKit Animation`  `URLSession`  `CoreData`  `XCTest` . 
 
 #### CODE EXAMPLES
-   - app that draw some pictures: https://github.com/virustyt/Drawing-pictures
-   - app for counting board game store: https://github.com/virustyt/GameCounter
-   - realization of SpaceX open API: https://github.com/virustyt/SpaceXOpenAPIRealization
+   - [app that draw pictures] (https://github.com/virustyt/Drawing-pictures)
+   - [app for counting board game store] (https://github.com/virustyt/GameCounter)
+   - [realization of SpaceX open API] (https://github.com/virustyt/SpaceXOpenAPIRealization)
    
    In progress:
-   - app for monitoring money budget: https://github.com/virustyt/FinanceAdvisor
+   - [app for monitoring money budget] (https://github.com/virustyt/FinanceAdvisor)
 
 #### EXPIERENCE
    - I have not been engaged in commercial development for iOS.
