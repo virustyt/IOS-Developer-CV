@@ -1,23 +1,48 @@
 Oleinikov Vladimir, 29 years old\
-Minsk • (029) 55-98-356\
+Minsk • Belarus
 dragon2020@inbox.ru
 
 #### ABOUT ME
-   - My goal is to gain commercial development experience in the team and continue to constantly improve my development skills. Able to learn quickly and discover new things. By nature i am calm and non-confrontational.
+   - My goal is to deepen and expand my knowledge about the development of long-lived applications, the choice of their architecture and ways to divide tasks between team members.. By nature i am calm and non-confrontational.
 
 #### SKILLS
-   - Objective-C Swift Xcode   MVC   Git
+
+   - `Objective-C`  `Swift` 
+   - `Xcode`  `MVC`  `MVVM`  `Git`
+   - `Autolayout`  `UIKit`  `GCD`  `NSOperations`  `UIKit Animation`  `URLSession`  `CoreData`  `XCTest` . 
 
 #### CODE EXAMPLES
-   - [simple game](https://github.com/virustyt/CS-193P.Homework.Concentration/tree/main/Concentration.Homework.)
+   - [app that draw pictures](https://github.com/virustyt/Drawing-pictures).
+   - [app for counting board game store](https://github.com/virustyt/GameCounter).
+   - [realization of SpaceX open API](https://github.com/virustyt/SpaceXOpenAPIRealization).
+   
+   In progress:
+   - [app for monitoring money budget](https://github.com/virustyt/FinanceAdvisor).
+
 
 #### EXPIERENCE
    - I have not been engaged in commercial development for iOS.
    - From 2015 to 2021 worked as a network administrator and senior network administrator.
+   - I wrote three pet projects.
+   - Now i am currently developing a non-commercial application in a team.
 
 #### EDUCATION
    - Completed higher education. Specialty - "Computer systems and networksc. Сmputing machines, complexes, systems and networks". (2010-2015).
-   - iOS RSSchool 2021 course - I am currently taking it. (course from EPAM)
+   - Stanford CS 193P course ([2017-18]).
+   - Series of courses from raywenderlich.com:
+      - UIKit Layout.
+      - Table Views. 
+      - CALayers.
+      - UIKit Animation.
+      - iOS Views and Animations.
+      - Intermediate iOS Animations.
+      - iOS Concurrency with GCD and Operations.
+      - Saving Data in iOS.
+      - Networking with URLSession.
+      - Testing in iOS.
+      - Begining CoreData.
+      - Intermidiate CoreData.
+
 
 
 
