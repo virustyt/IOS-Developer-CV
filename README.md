@@ -7,8 +7,13 @@ dragon2020@inbox.ru
 
 #### SKILLS
    - `Objective-C`  `Swift` 
-   - `Xcode`  `MVC`  `MVVM`  `Git`
-   - `Autolayout`  `UIKit`  `GCD`  `NSOperations`  `UIKit Animation`  `URLSession`  `CoreData`  `XCTest` . 
+   - `Xcode`  `Git`  `Figma`
+   - `MVC`  `MVVM`
+   - `Autolayout` `Layout from code` `Storyboards`  
+   - `UIKit`  `UIKit Animation`
+   - `URLSession`  `CoreData`  `XCTest`
+   - `GCD`  `NSOperations`
+   - `Combine`
 
 #### CODE EXAMPLES
    - [app that draw pictures](https://github.com/virustyt/Drawing-pictures).
@@ -40,5 +45,6 @@ dragon2020@inbox.ru
       - Testing in iOS.
       - Begining CoreData.
       - Intermidiate CoreData.
+      - Reactive Programming in iOS with Combine.
 
 
