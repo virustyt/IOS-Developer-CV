@@ -24,10 +24,10 @@ dragon2020@inbox.ru
    - [app for monitoring money budget](https://github.com/virustyt/FinanceAdvisor).
 
 #### EXPIERENCE
-   - I have not been engaged in commercial development for iOS.
    - From 2015 to 2021 worked as a network administrator and senior network administrator.
    - I wrote three pet projects.
    - Now i am currently developing a non-commercial application in a team.
+   - I have not been engaged in commercial development for iOS yet.
 
 #### EDUCATION
    - Completed higher education. Specialty - "Computer systems and networksc. Сmputing machines, complexes, systems and networks". (2010-2015).
