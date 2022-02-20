@@ -7,22 +7,28 @@ dragon2020@inbox.ru
 
 #### SKILLS
    - `Objective-C`  `Swift` 
-   - `Xcode`  `MVC`  `MVVM`  `Git`
-   - `Autolayout`  `UIKit`  `GCD`  `NSOperations`  `UIKit Animation`  `URLSession`  `CoreData`  `XCTest` . 
+   - `Xcode`  `Git`  `Figma`
+   - `MVC`  `MVVM`
+   - `Autolayout` `Layout from code` `Storyboards`  
+   - `UIKit`  `UIKit Animation`
+   - `URLSession`  `CoreData`  `XCTest`
+   - `GCD`  `NSOperations`
+   - `Combine`
 
 #### CODE EXAMPLES
    - [app that draw pictures](https://github.com/virustyt/Drawing-pictures).
    - [app for counting board game store](https://github.com/virustyt/GameCounter).
    - [realization of SpaceX open API](https://github.com/virustyt/SpaceXOpenAPIRealization).
+   - [photo galery app](https://github.com/virustyt/MyThirdApp-PhotoGalery)
    
    In progress:
    - [app for monitoring money budget](https://github.com/virustyt/FinanceAdvisor).
 
 #### EXPIERENCE
-   - I have not been engaged in commercial development for iOS.
    - From 2015 to 2021 worked as a network administrator and senior network administrator.
    - I wrote three pet projects.
    - Now i am currently developing a non-commercial application in a team.
+   - I have not been engaged in commercial development for iOS yet.
 
 #### EDUCATION
    - Completed higher education. Specialty - "Computer systems and networksc. Сmputing machines, complexes, systems and networks". (2010-2015).
@@ -40,5 +46,6 @@ dragon2020@inbox.ru
       - Testing in iOS.
       - Begining CoreData.
       - Intermidiate CoreData.
+      - Reactive Programming in iOS with Combine.
 
 
