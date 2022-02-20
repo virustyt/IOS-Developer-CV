@@ -3,7 +3,7 @@ Minsk • Belarus
 dragon2020@inbox.ru
 
 #### ABOUT ME
-   - My goal is to deepen and expand my knowledge about the development of long-lived applications, the choice of their architecture and ways to divide tasks between team members.. By nature i am calm and non-confrontational.
+   - My goal is to deepen and expand my knowledge about the development of applications, the choice of their architecture and ways to divide tasks between team members.. By nature i am calm and non-confrontational.
 
 #### SKILLS
    - `Objective-C`  `Swift` 
