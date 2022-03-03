@@ -3,7 +3,7 @@ Minsk • Belarus
 dragon2020@inbox.ru
 
 #### ABOUT ME
-   - My goal is to deepen and expand my knowledge about the development of applications, the choice of their architecture and ways to divide tasks between team members.. By nature i am calm and non-confrontational.
+   - I am actively looking for a job as an iOS Developer. I can and love to work in a team. I want to develop in this field. I love clean and understandable code, I always do refactoring. I try to follow the principles of SOLID. Easily and quickly trained, I grasp and process information on the fly and will be able to immediately implement it into work.
 
 #### SKILLS
    - `Objective-C`  `Swift` 
