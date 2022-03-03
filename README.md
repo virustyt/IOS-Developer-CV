@@ -3,7 +3,7 @@ Minsk • Belarus
 dragon2020@inbox.ru
 
 #### ABOUT ME
-   - I am actively looking for a job as an iOS Developer. I can and love to work in a team. I want to develop in this field. I love clean and understandable code, I always do refactoring. I try to follow the principles of SOLID. Easily and quickly trained, I grasp and process information on the fly and will be able to immediately implement it into work.
+   - I can and love to work in a team. I want to develop in this field. I love clean and understandable code, I always do refactoring. I try to follow the principles of SOLID. Easily and quickly trained, I grasp and process information on the fly and will be able to immediately implement it into work.
 
 #### SKILLS
    - `Objective-C`  `Swift` 
