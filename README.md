@@ -13,7 +13,8 @@ dragon2020@inbox.ru
    - `UIKit`  `UIKit Animation`
    - `URLSession`  `CoreData`  `XCTest`
    - `GCD`  `NSOperations`
-   - `Combine`
+   - `RxSwift`
+   - [English B1](efset.org/cert/b3dT26)
 
 #### CODE EXAMPLES
    - [app that draw pictures](https://github.com/virustyt/Drawing-pictures).
