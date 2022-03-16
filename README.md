@@ -14,7 +14,7 @@ dragon2020@inbox.ru
    - `URLSession`  `CoreData`  `XCTest`
    - `GCD`  `NSOperations`
    - `RxSwift`
-   - [English B1]((https://efset.org/cert/b3dT26)
+   - [English B1](https://efset.org/cert/b3dT26)
 
 #### CODE EXAMPLES
    - [app that draw pictures](https://github.com/virustyt/Drawing-pictures).
