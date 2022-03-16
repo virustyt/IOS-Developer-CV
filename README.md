@@ -20,6 +20,7 @@ dragon2020@inbox.ru
    - [app that draw pictures](https://github.com/virustyt/Drawing-pictures).
    - [app for counting board game store](https://github.com/virustyt/GameCounter).
    - [realization of SpaceX open API](https://github.com/virustyt/SpaceXOpenAPIRealization).
+   - [photo galery app](https://github.com/virustyt/MyThirdApp-PhotoGalery)
    
    In progress:
    - [app for monitoring money budget](https://github.com/virustyt/FinanceAdvisor).
