@@ -1,4 +1,4 @@
-Oleinikov Vladimir, 29 years old\
+Oleinikov Vladimir
 Minsk • Belarus
 dragon2020@inbox.ru
 
