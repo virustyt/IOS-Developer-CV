@@ -2,17 +2,17 @@ Oleinikov Vladimir, 29 years old
 dragon2020@inbox.ru
 
 #### ABOUT ME
-   I'm a novice ios developer. For the last five years i have been setting up and maintaining computer networks and network equipment. And a few years ago I became acquainted with writing code, it became my passion. Thats why i decided to change my main occupation and become a professional ios developer.
+   I'm a novice ios developer. For the last five years i have been setting up and maintaining computer networks and network equipment. And a few years ago I became acquainted with writing code, it became my passion. Then i decided to change my main occupation and become a professional ios developer.
 
 #### SKILLS
    - `Objective-C`  `Swift` 
    - `MVC`  `MVVM`
    - `UIKit`
    - `CoreData` 
-   - use `XCTest` to write tests
+   - `XCTest` for tests
    - `RxSwift`
    
-#### Languages
+#### LANGUAGES
    - [English B1](https://efset.org/cert/b3dT26)
    - Russian native
 
@@ -22,8 +22,8 @@ dragon2020@inbox.ru
    - third app: [photo galery app](https://github.com/virustyt/MyThirdApp-PhotoGalery)
    
 #### EXPIERENCE
-   - I have not been engaged in commercial development for iOS yet.
-   - Now i am currently developing a non-commercial application in a team:
+   - 12 months of non-commercial development
+   - now i am currently developing a non-commercial application in a team:
       - [app for monitoring money budget](https://github.com/virustyt/FinanceAdvisor).
 
 #### EDUCATION
