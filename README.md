@@ -1,5 +1,8 @@
 Oleinikov Vladimir, 29 years old
-dragon2020@inbox.ru
+>mail: dragon2020@inbox.ru
+
+
+
 
 #### ABOUT ME
    I'm a novice ios developer. For the last five years i have been setting up and maintaining computer networks and network equipment. And a few years ago I became acquainted with writing code, it became my passion. Then i decided to change my main occupation and become a professional ios developer.
