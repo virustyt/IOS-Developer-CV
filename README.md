@@ -9,8 +9,10 @@ Oleinikov Vladimir, 29 years old
    - `MVC`  `MVVM`
    - `UIKit`
    - `CoreData` 
+   -  `RxSwift`
    - `XCTest` for tests
-   - `RxSwift`
+   - `GCD` and `NSOperation` for concurency
+ 
    
 #### LANGUAGES
    - [English B1](https://efset.org/cert/b3dT26)
