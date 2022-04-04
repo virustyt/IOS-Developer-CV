@@ -29,6 +29,6 @@ Oleinikov Vladimir, 29 years old
       - [app for monitoring money budget](https://github.com/virustyt/FinanceAdvisor).
 
 #### EDUCATION
-   - Completed higher education. Specialty - "Computer systems and networksc. Сmputing machines, complexes, systems and networks". (2010-2015).
+   - Completed higher education. Specialty - "Computer systems and networks. Сmputing machines, complexes, systems and networks". (2010-2015).
    - Stanford CS 193P course ([2017-18]).
    - Series of courses(14) from raywenderlich.com
